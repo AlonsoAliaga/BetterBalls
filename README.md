@@ -5,7 +5,7 @@ This plugin adds a new "item" to the game that should be useful for every player
 The aim of this plugin is to allow players to take their pets wherever they go using balls they can craft.
 
 ## Resources
-- [Spigot resource](https://www.spigotmc.org/resources/X/)
+- [Spigot resource](https://www.spigotmc.org/resources/82787/)
 - [Issue tracker](https://github.com/AlonsoAliaga/BetterBalls/issues)
 - [Donate](https://paypal.me/AlonsoAliaga)
 - [bStats](https://bstats.org/plugin/bukkit/BetterBalls)
