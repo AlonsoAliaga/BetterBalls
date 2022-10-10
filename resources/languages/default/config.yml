@@ -1,0 +1,312 @@
+# Config of the version 0.7-BETA
+#              ___      _   _           ___       _ _                    Our plugins: https://alonsoaliaga.com/plugins
+#             | _ ) ___| |_| |_ ___ _ _| _ ) __ _| | |___                Support server: https://alonsoaliaga.com/discord
+#             | _ \/ -_)  _|  _/ -_) '_| _ \/ _` | | (_-<                Youtube: https://alonsoaliaga.com/play
+#             |___/\___|\__|\__\___|_| |___/\__,_|_|_/__/                Test server: plugins.alonsoaliaga.com
+#                          by AlonsoAliaga                               Twitch: https://alonsoaliaga.com/twitch
+#        Considering donating? https://alonsoaliaga.com/donate           Thanks for using my plugin! <3
+
+#You can discover new textures in this link: https://minecraft-heads.com/custom-heads
+#All you need have to do is choose one head, and scroll down to the section "Other" and copy the text inside "Value"
+Ball:
+  Texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNlNjg3NjhmNGZhYjgxYzk0ZGY3MzVlMjA1YzNiNDVlYzQ1YTY3YjU1OGYzODg0NDc5YTYyZGQzZjRiZGJmOCJ9fX0="
+  Random:
+    Enabled: true
+    Textures:
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ0MDhjNTY5OGYyZDdhOGExNDE1ZWY5NTkyYWViNGJmNjJjOWFlN2NjZjE4ODQ5NzUzMGJmM2M4Yjk2NDhlNSJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVkNWExMmM5YzY4N2VjOGFiZmFmNzg3ZTZmYmRjNzFlODc1ZjU5YzNkNjE5NWNiYTc4MTFiYmY5NGExMCJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTFmMWVhY2JiZTM3NjU1N2Y1ZDdkM2VjZTU5NGRiMTMzOGY2NjYzNjYyOTgyY2ZjNjU4YzdhN2RjNjM5ZDc3In19fQ=="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThhNDg4YzRkNTc1OGExZTllYTQ4NDlhMzEyNDhlOWExMzQzZmRlNDJiNzc3Y2YyZjIxYTI5OWYzZGFiZGJlIn19fQ=="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ2Y2U5YmQ0NjRiNDRmYWU5ZjE3MGZmY2E5M2MyYjY0YjU2MzE0MTkwNmExNjMxZTY4OTRlOTM4ODdiNDgifX19"
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDgzYzEyNGRmYjI1NWJlN2E5NmQ3NTI1OTM0Mjc5MTFkOGRjZjA3NWQ5ZmVlZmRmZWJkZjcxNWVkZGVlNDE2MCJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIyOTZmNzVjYjJkZjY3YTg0ZTgxYjM5MWM1Yzk4ZGYyN2IwY2VmNjcwNGU5ZDI5YjBhMjZjYWE1N2ZmZjJkMSJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc2ZTc5ZDU0MDk3NTAzMjY4YzhlYzNiNzUzZTlkYTY1NmExOWQyMzI4NDM0Njg2ODQwNmFiZjMxZTQxIn19fQ=="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJlOWExNWNkOTM2YzU5ZmFhMTRlMzM4OTcyNTgxNDZhMWZlNGNmYWUzMGQ0N2JmYWQyNmIxYTdiMTYxYzJiIn19fQ=="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU0ODNjYzUzODY4NDY4Y2YxYjkzNDcxM2ViM2FkM2U0Njk1Mjg0YmUzOTQyZjdjNWI5OWFiNjRjOWQ5NGUifX19"
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjcyZTMxM2Q4OTRlMTA3MGEyZGU5Yjk5NmQ5NDFmZjhkM2Y3OGYzYTYzMjY5Yzk4YzNmMmIwNTljNThmMTRmOSJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM2MTYxMjQzZTUyMzg4ODFkOGYxZjFlODgxNzE3NDQzZWZkYTA4YjE0NGY3MTM0NjcxYzdjNWY4N2ExZGNkYSJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdiNGM2NTc0ZWEwMmE1ZjMwMjcyMzhmYmU0NTkwMjc2NDljMTc4ODNhZWMxMjk3OGJhYzg4NjkxNDkzMTgifX19"
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNlMjYwMjk2MGJmYTY2MTdlNmI2Y2Q2NDRkNTcxZDc0YWRiNWNhNGJiNDJhMWM0MWNlNDJiYmVlYTVmNTQ5MyJ9fX0="
+      - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VlNGQ0ZTU5MThkZWUzMWQzZTIyNmUwZWI3YjU0YzNlODY3OGVkZDkxOTY5NWU4MTFlZTMwYWI1ZmNjOTk4ZCJ9fX0="
+  #This enables the command to view all available balls that can be obtained when crafting. If Ball.Random.Enabled is false, then it will display ONLY the base ball.
+  Display:
+    Enabled: true
+  #These are balls available only for administrators using the GUI and obtainable by clicking on it.
+  Unique:
+    Enabled: true
+    #Max amount is 54
+    #You can add new textures in the following format:
+    # - "&cTexture name|texture"
+    Textures:
+      - "&5AlonsoAliaga|ewogICJ0aW1lc3RhbXAiIDogMTU5NDQ0NjkyMDI5NiwKICAicHJvZmlsZUlkIiA6ICJlMWMxYTE5NDdlODY0MTRmODZiYjQyZDgyYTIxY2ZiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbG9uc29BbGlhZ2EiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YWE3NGNjODg1NzgwNjBkMGZlM2JkOTA4YjM0ZjY5ZjEyZTA3ZjFmODljNWRkYzE1ZTZiZjYwZjA0Y2NjNiIKICAgIH0KICB9Cn0="
+      - "&dPink Bird|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmE3MmJhMzhlZTQ5NWRlNDk0ZTk5YTgzMWVjN2Q4YzU2MTMyOTcyMmNlMzI2MjQ0OGU0YjU2YThkMDljMjE0YSJ9fX0="
+      - "&2Orc|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGViMjgxZjZhMTg1ZWY3ZWQ3NzhjOTQyNmIyZWVmMzk5Y2VkNWEwZWU3YzViNzM2NWQ3MzRjMjE4MjU1NmIxYSJ9fX0="
+      - "&eSteve Moving Eyes|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQxOGM5NTQ5ODAzMWZlYTNmZTc0OGIxN2M3YTVjOWU4OTI4YjNkN2M4ODllZGU3OTAyZDc4YmFhZDYyMmE5NCJ9fX0="
+      - "&bCookie Monster|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDdiNzY2MjAwOWU0NGE5ODRiNTUzMDRlNDNjMDI4MDRiZGYwNGMyODExZjJiNGNiMzkxNWI0NDMxYjc1NzJiZiJ9fX0="
+      - "&cElmo|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQzOTE4OWU2MTM3NTMyMjkyYzg1OGY1NTIxMjI0MTMxMDhjZGNlNzI5ZTI2ZWU3YjEzNWVhN2NhNDI4ZWM1YiJ9fX0="
+      - "&dPig|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTgzZWIwNzMxM2MwZDJlZjcyNmMyNjdmMmIxMjg1ZmRhYmQwMjg2NDYwMzEwMjNmYWExYmQ0YzFlNmYwMWRmOCJ9fX0="
+      - "&5Strider|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE5MDNlNGQ5ZWM1NjE3MTFhZDllMTcxYWY2Yjc5ZmZiNjllMjk1ZGNkOWJmMjMwNjhjOWFiYjdlMjE5NDkwZCJ9fX0="
+      - "&9Captain America|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ4ZGIyMzczODRjOTA2YTY5ODEzMDlkMjlmYzY4Mjc3ZDljN2U1OWY4NWM2MGMxMDgyYjYxZTExZGJmMGIwIn19fQ=="
+      - "&3Squidward|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM1ZmZmYzJlOTc4ZDYzOWM3ODI2MjYyYTI1YzA4YTJiMGI5ZmZmNTM2MGUzNzVjMDA0Yjc5OWIzZmY2NzkyNiJ9fX0="
+      - "&dBuzz Lightyear|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U2NDcwNjc3NmU4NGZhOGM5MGNmYjk1Nzc3NzU5YzFkMTc2ODc3MzBlYTUwMGNjYmU5OTMxOGIxOTU0OTc2MCJ9fX0="
+      - "&6Tank|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNlZTVmMjhiYmMwM2QyNjEyZmM3NDRkOGEyMmNlMjZlYmRmMWU5OTIxZWM4YTEyNzk3MWRkMDUzMjhmYzhmNCJ9fX0="
+      - "&aTank|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJkYTBkYWEzNzg3MTEyMzliMGRiZjY5MDhmMGE1ZjA0MzFiNTI4NzQ4NDE3YTM4MzE2YzQ2NzdjNWIyZDA5YSJ9fX0="
+      - "&eSoviet Union Flag|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5NTM5Y2U4MzRkOTJlM2Y3ODI1ZTQxM2FlOWNjYmQyNzg4MTUwMTg3MDNkYTgyMzJkMmUxNzczYTE4YjJiMyJ9fX0="
+      - "&4Lightning McQueen|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhlMjJmMTk2ZWE5NmVmYzMzZDQ1NWQ5YzIyYTBjZDIwNTUxZjZkM2U3ZmI0ZTc2NmMzY2M0NjhkZjNjOTY4In19fQ=="
+      - "&6Mater|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQxODkyNjg0NmQxNjg5NmZmOTQ0NjA5MmU4NGRjYjJkZDZhYWNhNGE3NWEzNDA3YmE2NjUzNTM2ZGRmIn19fQ=="
+      - "&cFrancesco Bernoulli|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY2YjkyYzZkNjc3MzAzZDE2YmFhMWY3MzE1OWY0ZjQxYmVjZDAyZTNmZDRlNzQ3ZTMyY2NlM2ZmNGQ4MTdlNCJ9fX0="
+      - "&aChick Hicks|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ViOGIxOGRiZDNhZmY0NWY4ZWY2OTc4YzI2NzNiMDIxODc1YzVlMTdiYmRkYTJmMjE4MTY0YTlkM2IzZCJ9fX0="
+      - "&6Legendary Egg|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA0YzhjN2JhMWYwZGFlYTNiNDEwZWRkYjQ5OWQ1NjUwM2RkZGQ0NzQ2ZTgyMWE1YmRlNDUxM2I2Mjg3NGIxIn19fQ=="
+      - "&9Discord ping|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ4MzNiNTE1NjY1NjU2NThmOTAxMWRlODc4NGU5MGMxYWQ5YmE1ZDMzMzdmOGMwNjkyMTNiYmRlZTk4NjUyMyJ9fX0="
+      - "&7Bugs Bunny|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiMzg2MTQzYWNiZGE5NmQwNjkxNzg5OGZjYmI3YmMwYTJkY2VlOTNmNWU1OWNhNWI3M2U2NzgzZTVjMSJ9fX0="
+      - "&7Bugs Bunny meme|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0Y2Q2YmJlYzViNDk3NmY5M2UzZjI0MTU1NjcyNDg2MjY4NzdmMTdiYWY4OWEzNzIyMDUwNmY1OTU3Yjk3YyJ9fX0="
+  New:
+    Displayname: "&6&lBall &7(Empty)"
+    Lore:
+      - "&7This ball allows you to"
+      - "&7transport some pets with"
+      - "&7you to spawn them when"
+      - "&7you need them!"
+  Catched:
+    Displayname: "&a{PET} &7(Catched)"
+    Lore:
+      - "&7Pet: &f{PET}&r"
+      - "&eLeft click to spawn it!"
+  Empty:
+    Displayname: "&c{PET} &7(Spawned)"
+    Lore:
+      - "&7Pet: &f{PET}&r"
+      - "&7Pet has been spawned!"
+      - ""
+      - "&eRight click air/block to"
+      - "&ecatch it, or right click a"
+      - "&enew pet to catch it."
+  Revive:
+    Displayname: "&e{PET} &7(Revived)"
+    Lore:
+      - "&7Pet: &f{PET}&r"
+      - "&7This pet has been revived!"
+      - ""
+      - "&eLeft click to spawn it!"
+Messages:
+  No-permission: "&cYou don't have permission to execute this command."
+  Cannot-stacked: "&cYou cannot use stacked balls.."
+  Cannot-shift-craft: "&cYou cannot use shift to craft balls ^^"
+  No-permission-craft: "&cYou don't have permission to craft a ball :("
+  No-permission-spawn: "&cYou don't have permission to spawn pet :("
+  No-permission-catch: "&cYou don't have permission to catch pets :("
+  Reloaded: "&aSome messages and options have been reloaded. Other may require a restart!"
+  Invalid-player: "&cPlayer is not online!"
+  Not-owner: "&cThis pet is not yours!"
+  Only-main-hand: "&cBalls can be used only in main hand!"
+  Protected-from-theft: "&cThis pet has been spawned by other player! You cannot catch it."
+  Not-capturable: "&cThis entity cannot be captured because of some circumstances!"
+  Empty-ball: "&cThis ball is empty. Catch a pet first!"
+  Already-spawned: "&cPet is already spawned!"
+  Not-spawned: "&cSpawn your pet first!"
+  Pet-not-around: "&cYour pet is not close enough to catch it!"
+  Pet-in-ball: "&cThere is a pet in this ball. Spawn it before catching other!"
+  Cannot-catch: "&cThis entity cannot be caught!"
+  Cannot-catch-permission: "&cThis entity cannot be caught or you don't have permission to do it :("
+  Cannot-spawn: "&cYou cannot spawn your pet here!"
+  Cooldown-catch-pet: "&cYou must wait at least {COOLDOWN} seconds to catch a pet you just spawned!"
+  Cooldown-spawn-pet: "&cYou must wait at least {COOLDOWN} seconds to spawn a pet you just caught!"
+  Available-title: "&8Available Balls"
+  Catch-disabled-world: "&cCatching pets is not allowed in this dimension!"
+  Spawn-disabled-world: "&cSpawning pets is not allowed in this dimension!"
+  Invalid-entity-type: "&cEntity from this ball is not available in this server!"
+  Cannot-spawn-in-this-region: "&cYou cannot spawn your pet in this region :("
+  Cannot-catch-in-this-region: "&cYou cannot catch in this region :("
+  Pet-catched:
+    Default: "&6You caught your pet!"
+    Custom: "&6You caught your pet called &f{PET}&6!"
+  Pet-spawned:
+    Default: "&aYou spawned your pet!"
+    Custom: "&aYou spawned your pet called &f{PET}&a!"
+  Give:
+    Received: "&6You received a ball for your pets!"
+    Gave: "&aYou gave {TARGET} a ball!"
+  Recipe:
+    Title: "&8Ball recipe"
+    Show-disabled: "&cThis feature is currently disabled."
+    Opened-other: "&6Balls Recipe GUI opened for target player."
+  Available:
+    Opened-other: "&6Available balls GUI opened for target player."
+    Disabled: "&cThis feature is currently disabled."
+  Unique:
+    Title: "&8Available Unique Balls"
+    Disabled: "&cThis feature is currently disabled."
+    Opened-other: "&6Unique balls GUI opened for target player."
+  Build:
+    Success: "&6You gave {TARGET} one custom ball!"
+    Success-other: "&aYou received a custom ball!"
+    Success-other-extra: "&aYou received a custom ball! There wasn't enough space in your inventory, some items were dropped in the floor."
+  Revive:
+    Not-ball: "&cYou don't have any item in hands!"
+    Empty-hand: "&cYou don't have any item in hands!"
+    New-ball: "&cThis ball is brand new!"
+    Full-ball: "&cThis ball is not empty. There is something moving inside!"
+    Pet-alive: "&cThe pet was alive. We teleported it to your location!"
+    Pet-revived: "&6&lPet has been revived and is now inside this ball!"
+    Pet-revived-custom: "&6&lPet {PET} has been revived and is now inside this ball!"
+  Help:
+    Admin:
+    - "&4 /betterballs recipe <player> &f- &cOpen recipe for player"
+    - "&4 /betterballs balls <player> &f- &cOpen available balls for player"
+    - "&4 /betterballs unique <player> &f- &cOpen unique balls for player"
+    - "&4 /betterballs revivepet &f- &cGive ball to player"
+    - "&4 /betterballs give <player> &f- &cGive ball to player"
+    - "&4 /betterballs build <player> <texture> &f- &cBuild ball for player with texture"
+    - "&4 /betterballs reload &f- &cReload configuration"
+    User:
+    - "&4 /betterballs recipe &f- &cOpen recipe"
+    - "&4 /betterballs balls &f- &cOpen available balls"
+    - "&4 /betterballs unique &f- &cOpen unique balls"
+Options:
+  #Only enable if developer asks you to do it, otherwise it will spam your console and chat!
+  Debug-mode: false
+  #To apply changes you MUST restart your server.
+  Aliases:
+  - "betterball"
+  - "bballs"
+  - "bball"
+  #Experimental feature. This checks if the clicked entity has owner, and if so, it only allows owner to catch it!
+  #Recommended to leave it as false. THIS ONLY TAKE EFFECT WHEN RIGHT CLICKING THE ENTITY DIRECTLY.
+  Only-owner: false
+  Catch-radius: 5
+  #Recommended to leave this in 3 so players cannot spam spawning and catching.
+  Catch-cooldown: 3
+  #Recommended to leave this in 3 so players cannot spam spawning and catching.
+  Spawn-cooldown: 3
+  Show-recipe: true
+  #If enabled, member with entity type specific permission can catch entities not listed in "Allowed-entities"
+  #Warning. By default OPs have all permissions, so they can catch ALL living entities except players of course.
+  #Useful for upgradable perks in survival servers or donators. Default: false
+  Ignore-allowed-entities-on-permission: false
+  #What does this option do?
+  #In few words, it tries to "protect" spawned pets/mobs by adding a custom data value linking the pet with the player that spawned it.
+  #This will prevent other players to catch entities/pets that were spawned by others using balls.
+  #IMPORTANT: Metadata does NOT persists on restart. So make sure you tell your players to keep their pets inside their balls
+  #when disconnecting or at least inside claims if using claims plugins, otherwise others WILL be able to catch their pets
+  #even if this option is ENABLED. This may not work as expected, this is EXPERIMENTAL. Report bugs in the Github! <3
+  #THIS ONLY TAKE EFFECT WHEN RIGHT CLICKING THE ENTITY DIRECTLY. The ball used to spawn a entity will always be able to catch it if the entity wasn't caught with other ball.
+  Protect-from-steal:
+    Enabled: false
+    #This option will remove pet protection from theft IF the player is sneaking at the time he spawn his pet.
+    #In few words, metadata will not be added and it can be caught by other players. THIS WILL NOT OVERRIDE "Only-owner" feature.
+    #Which means if the option "Only-owner" is enabled players wont be able to catch pets with owner defined.
+    Allow-sneak: true
+  #All entity types that should be "catchable". Adding PLAYER won't make players capturable...
+  #Remember you can add here ENDER_DRAGON, but of course you wouldn't do it.. right?
+  #These entities are capturable by all players with catch-permission.
+  Allowed-entities:
+    - "STRIDER"
+    - "HORSE"
+    - "DONKEY"
+    - "MULE"
+    - "LLAMA"
+    - "PIG"
+  Recipe:
+    Enabled: true
+    Ingredients:
+      I: IRON_BLOCK
+      D: DIAMOND
+    #Use space if AIR. Example: "I I" means iron_block, air, iron_block
+    Shape:
+      - "III"
+      - "IDI"
+      - "III"
+  Filter:
+    #This option will allow the plugin to blacklist some entities that are whitelisted in "Allowed-entities" but have an specific metadata value.
+    #Some plugins add custom metadata values to recognize their custom mobs, animals, entities.
+    #If enabled, plugin will check metadata values specified below and will send the "error" message if found.
+    Enabled: false
+    Metadatas:
+      customplugin-specialmob: "&cThis entity cannot be caught!"
+      customplugin-boss: "&cThis entity cannot be caught!"
+  Disabled-worlds:
+    #Disable some actions in specific worlds.
+    #Useful if you want to make market worlds, safari worlds or similar.
+    Spawn:
+      - "world_market"
+      - "world_safari"
+    #This will ONLY affect when RIGHT CLICKING an entity to catch it.
+    #Doesn't affect to players with Admin permission (Includes operators)
+    Catch:
+      - "world_market"
+  Sounds:
+    Success: "EXP_ORB"
+    Fail: "ANVIL_LAND"
+    Teleport: "ENDERMAN_TELEPORT"
+    Craft: "PICKUP"
+  WorldGuard:
+    Spawn:
+      Warning:
+      - "Default flag:"
+      - " This is the default behavior if the flag is not specified BUT you are inside a WorldGuard region."
+      - "  true - Players can spawn pets."
+      - "  false - Players cannot spawn pets."
+      Default-flag: false
+    Catch:
+      Warning:
+      - "Default flag:"
+      - " This is the default behavior if the flag is not specified BUT you are inside a WorldGuard region."
+      - "  true - Players can catch."
+      - "  false - Players cannot catch pets."
+      - "THIS WILL NOT AFFECT WHEN CATCHING YOUR PET BY RIGHT CLICKING AIR AND IF YOUR PET IS NEAR YOU."
+      Default-flag: false
+  #Read warning before modifying!
+  Blacklisted-custom-names:
+    Warning:
+    - "Name DOES RESPECT color codes, this means that if entity custom name is 'My animal' in bolt"
+    - " AND pink, you MUST add '§d§lMy animal' to the list! If you add '&d&lMy animal' it WON'T WORK!"
+    - ""
+    - "If Ignore-allowed-types is enabled. Custom name will be checked BEFORE type is checked."
+    - "It means it will send the custom message selected before the 'Cannot catch type' message."
+    - ""
+    - "The 'Message' below is sent when a player attempts to catch an entity with"
+    - "with a blacklisted custom name listed below."
+    - ""
+    - "You can add as many names in the list as you want. You can also add a custom message for that"
+    - "custom name, otherwise it will use the message from 'Message' config below."
+    - "Format for custom message is 'Custom name;;;;;&cCustom message with color codes.'"
+    - ""
+    - "Players cannot read this message, DO NOT EDIT IT."
+    Ignore-allowed-types: true
+    Message: "&cYou cannot catch entities with a custom name like this!"
+    List:
+    - "§c§lForbidden mob;;;;;&cYou cannot catch entities with a custom name like this! This is a custom message :)"
+    - "§d§lAnother forbidden mob;;;;;&cYou cannot catch entities with a custom name like this! This is another custom message :)"
+    - "§d§lForbidden mob without custom message"
+
+Permissions: #Set to "none" if no permission is required (Admin perm is still required and will always require a permission)
+  #Permission to catch using balls
+  Catch: "none"
+  #Permission to spawn using balls
+  Spawn: "none"
+  #Permission to admin commands and take balls from GUIs (balls and unique)
+  Admin: "betterballs.admin"
+  #Permission to auto mount pets on spawn if they have saddle
+  Auto-mount: "none" #Example: "betterballs.automount"
+  #Permission to use /betterballs recipe
+  Recipe: "none" #Example: "betterballs.recipe"
+  #Permission to craft balls
+  Craft: "none" #Example: "betterballs.craft"
+  #Permission to use /betterballs unique
+  Check-unique: "none" #Example: "betterballs.unique"
+  #Permission to use /betterballs balls
+  Check-available: "none" #Example: "betterballs.available"
+  #Only used if "Ignore-allowed-entities-on-permission" is enabled.
+  #Example: betterballs.type.COW will allow the player to catch COW type if COW is not in "Allowed-entities" list.
+  #Check full entity type here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+  #WARNING. THIS WILL OVERRIDE "Allowed-entities" so if for any reason someone has betterballs.type.ENDER_DRAGON permission they WILL be able to
+  #catch ender dragons. Be careful. By default, OPs have all permissions, so be careful too.
+  Type-permission: "betterballs.type.{TYPE}"
+
+Updates:
+  #If enabled, comments will be removed.
+  Auto-update-configuration: true
+  Check-updates: true
+  Notify-updates: true
+  Permission: "betterballs.update"
+  Message: "&4[BetterBalls] &eA new update has been found! You are using version {CURRENT}. Download version {NEW} here &c{LINK}"
